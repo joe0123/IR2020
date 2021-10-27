@@ -1,5 +1,6 @@
-# Web Retrieval and Mining 2020 (Lectured by PJ Cheng)
-Programming Assignment of IR2020
+# Web Retrieval and Mining 2020
+Programming Assignments of IR2020 (Lectured by PJ Cheng)
+
 ## HW03: Vector Space Machine
 ### Description
 https://github.com/joe0123/IR2020/blob/master/HW3/HW3.pdf
